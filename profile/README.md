@@ -1,14 +1,15 @@
- ## 创建 repo 命名规则
- 命名为 姓名_项目，比如 Lunde_Chen_project_abc. 
+ ## Naming rule for repositories 
+- Name_Project，比如 Lunde_Chen_project_abc. 
 
-## 关于 Readme.md
-- 每个项目请在 Readme.md 里面写上主要使用的库的版本，尤其是使用 Python 2、tensorflow 1 等情况。
-- 如果可行，提供 requirements.txt 更好。
+## Repo Readme.md
+- For each project, please write the version of the main library used in **Readme.md**, especially when using Python 2, tensorflow 1, etc.
+- Provide a requirements.txt if possible.
 
-## 组会
-
-谈晓东 顾思远 吴立成 甘雨程 董乐乐
-
-
-## 其他
-- 鼓励同学们刷 leetcode
+## Meeting
+- Tan Xiaodong 
+- Gu Siyuan 
+- Wu Licheng 
+- Gan Yucheng 
+- Dong Lele
+- Gao Zhongmin
+- Zhang Yuxuan
