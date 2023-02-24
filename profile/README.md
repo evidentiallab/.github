@@ -13,3 +13,6 @@
 - Dong Lele
 - Gao Zhongmin
 - Zhang Yuxuan
+- Xu Senbo
+- Zhu Xinning
+- Huang Longfei
